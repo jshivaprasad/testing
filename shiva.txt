@@ -1,3 +1,7 @@
 hi shiva
 i am from warangal
+<<<<<<< HEAD
 heloo
+=======
+working as devops engineer
+>>>>>>> 0d739a77b3e26d2b5e50eaccc4be6cb4bd991d34
