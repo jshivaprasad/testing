@@ -1,0 +1,4 @@
+Name : Balu
+Place : Warangal
+Party : JSP
+Position : warangal president
