@@ -1,0 +1,4 @@
+name  : Rishi
+College : JNTUH
+Place   : Warangal
+Age     : 23
