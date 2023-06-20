@@ -1,4 +1,0 @@
-name : sathish reddy
-age  : 28
-place : Naarsampet
-College : jits
